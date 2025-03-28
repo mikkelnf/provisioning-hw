@@ -1,0 +1,3 @@
+### Get Provision File by MAC Address
+GET http://localhost:8080/api/v1/provisioning/aa-bb-cc-dd-ee-ff
+Accept: application/json
